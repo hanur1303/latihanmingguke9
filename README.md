@@ -23,10 +23,12 @@ Program menanyakan apakah pengguna ingin menambahkan data lagi, jika ‘y’ mak
 Setelah data dimasukkan selesai, program akan menampilkan daftar data mahasiswa dalam bentuk tabel sederhana.
 
 Flowchart
+
 ![Screenshot_105](https://github.com/hanur1303/latihanmingguke9/assets/148194701/512c57b7-2fc8-4bb9-b7a8-8ad796aeadfb)
 
 
 Buktti Pengerjannya
+
 ![Screenshot_101](https://github.com/hanur1303/latihanmingguke9/assets/148194701/01e930bb-dafc-462d-9763-025cb54ca4a4)
 ![Screenshot_102](https://github.com/hanur1303/latihanmingguke9/assets/148194701/5ab0a4e0-fc9b-4377-b8d1-495c177be0e1)
 ![Screenshot_103](https://github.com/hanur1303/latihanmingguke9/assets/148194701/8995b3fe-16c2-467c-b121-5d9d96942d90)
